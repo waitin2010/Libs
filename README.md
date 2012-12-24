@@ -1,4 +1,4 @@
 Libs
 ====
 
-Libary for materials
+Libary for useful materials
